@@ -1,0 +1,234 @@
+{
+  "heading": "Fractions",
+  "topics": [
+    {
+      "heading": "Fractions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is the fraction representing the number of blue shaded squares to the total number of squares?<br><img width='60%' src='./assests/images/question/1.jpg'>",
+          "options": [
+            { "image": "./assests/images/option/1.jpg" },
+            { "image": "./assests/images/option/2.jpg" },
+            { "image": "./assests/images/option/3.jpg" },
+            { "image": "./assests/images/option/4.jpg" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 2,
+          "question": "What is the fraction representing the number of pink shaded squares to the total number of squares?<br><img width='60%' src='./assests/images/question/2.jpg'>",
+          "options": [
+            { "image": "./assests/images/option/5.jpg" },
+            { "image": "./assests/images/option/6.jpg" },
+            { "image": "./assests/images/option/7.jpg" },
+            { "image": "./assests/images/option/8.jpg" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "Which of the following options can be written as a mixed fraction?",
+          "options": [
+            { "image": "./assests/images/option/9.jpg" },
+            { "image": "./assests/images/option/10.jpg" },
+            { "image": "./assests/images/option/11.jpg" },
+            { "image": "./assests/images/option/12.jpg" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "Which of the following is a proper fraction?",
+          "options": [
+            { "image": "./assests/images/option/13.jpg" },
+            { "image": "./assests/images/option/14.jpg" },
+            { "image": "./assests/images/option/15.jpg" },
+            { "image": "./assests/images/option/16.jpg" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "On converting the following fraction into a mixed fraction, what is the whole number <br><img width='70%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "3" },
+            { "text": "6" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "Which of the following fractions is an improper fraction and a unit fraction at the same time?",
+          "options": [
+            { "image": "./assests/images/option/17.jpg" },
+            { "image": "./assests/images/option/18.jpg" },
+            { "image": "./assests/images/option/19.jpg" },
+            { "image": "./assests/images/option/20.jpg" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "Which of the following pairs of fractions are unlike fractions?",
+          "options": [
+            { "image": "./assests/images/option/21.jpg" },
+            { "image": "./assests/images/option/22.jpg" },
+            { "image": "./assests/images/option/23.jpg" },
+            { "image": "./assests/images/option/24.jpg" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "Which of the following is the correct proper fraction equivalent for <br><img width='70%' src='./assests/images/question/2.png'>",
+          "options": [
+            { "image": "./assests/images/option/25.jpg" },
+            { "image": "./assests/images/option/26.jpg" },
+            { "image": "./assests/images/option/27.jpg" },
+            { "image": "./assests/images/option/28.jpg" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 9,
+          "question": "A mixed fraction will always be a _____.",
+          "options": [
+            { "text": "Proper fraction" },
+            { "text": "Improper fraction" },
+            { "text": "Unit fraction" },
+            { "text": "can't say" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 10,
+          "question": "A fraction having a numerator always equal to 1 is a _____.",
+          "options": [
+            { "text": "Improper fraction" },
+            { "text": "Like fraction" },
+            { "text": "Unit fraction" },
+            { "text": "None of the above" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 11,
+          "question": "Find the value of X from the following figure.<br><img width='70%' src='./assests/images/question/8.jpg'>",
+          "options": [
+            { "text": "0" },
+            { "text": "1" },
+            { "text": "2" },
+            { "text": "3" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "Which fraction is in its lowest form?",
+          "options": [
+            { "image": "./assests/images/option/29.jpg" },
+            { "image": "./assests/images/option/30.jpg" },
+            { "image": "./assests/images/option/31.jpg" },
+            { "image": "./assests/images/option/32.jpg" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "The fraction 19/5 lies between which two integers on the number line?",
+          "options": [
+            { "text": "2 and 3" },
+            { "text": "3 and 4" },
+            { "text": "4 and 5" },
+            { "text": "6 and 7" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "What is the process to find an equivalent fraction for <br><img width='70%' src='./assests/images/question/4.png'>",
+          "options": [
+            { "text": "Divide both numerator and denominator by 5." },
+            { "text": "Subtract 2 from both numerator and denominator" },
+            { "text": "Multiply both numerator and denominator by 3." },
+            { "text": "Add 2 to both numerator and denominator" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "Which of the following pairs of fractions are both improper fractions and equivalent fractions?",
+          "options": [
+            { "image": "./assests/images/option/33.jpg" },
+            { "image": "./assests/images/option/34.jpg" },
+            { "image": "./assests/images/option/35.jpg" },
+            { "image": "./assests/images/option/36.jpg" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 16,
+          "question": "On the number line, the fraction 5/4 lies between the two integers, and how can it be expressed as a mixed fraction?",
+          "options": [
+            { "image": "./assests/images/option/37.jpg" },
+            { "image": "./assests/images/option/38.jpg" },
+            { "image": "./assests/images/option/39.jpg" },
+            { "image": "./assests/images/option/40.jpg" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following fractions is not in its simplest form?",
+          "options": [
+            { "image": "./assests/images/option/41.jpg" },
+            { "image": "./assests/images/option/42.jpg" },
+            { "image": "./assests/images/option/43.jpg" },
+            { "image": "./assests/images/option/44.jpg" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "Which of the following is both a proper fraction and an equivalent fraction of <br><img width='70%' src='./assests/images/question/6.png'>",
+          "options": [
+            { "image": "./assests/images/option/45.jpg" },
+            { "image": "./assests/images/option/46.jpg" },
+            { "image": "./assests/images/option/47.jpg" },
+            { "image": "./assests/images/option/48.jpg" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "Which unit fraction is largest?",
+          "options": [
+            { "image": "./assests/images/option/49.jpg" },
+            { "image": "./assests/images/option/50.jpg" },
+            { "image": "./assests/images/option/51.jpg" },
+            { "image": "./assests/images/option/52.jpg" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "Arrange the following fractions in ascending order:<br><img width='70%' src='./assests/images/question/7.png'>",
+          "options": [
+            { "image": "./assests/images/option/53.jpg" },
+            { "image": "./assests/images/option/54.jpg" },
+            { "image": "./assests/images/option/55.jpg" },
+            { "image": "./assests/images/option/56.jpg" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+      
+    
+    }
+  ]
+}
